@@ -1,4 +1,4 @@
-## 👋Hello there, I am Daniela Achelus
+## 👋Hello there, I'm Daniela 
 
 ![](https://komarev.com/ghpvc/?username=daniache&color=blue)
 
